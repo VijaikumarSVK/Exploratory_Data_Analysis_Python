@@ -25,23 +25,11 @@ The decision to use auto EDA depends on:
 <br> **Manual EDA** allows for more nuanced and detailed analysis.
 
 Packages include:
-- YData Profiling, https://pypi.org/project/ydata-profiling/
-- Sweetviz, https://pypi.org/project/sweetviz/
-- DataPrep, https://pypi.org/project/dataprep/
 - D-Tale, https://pypi.org/project/dtale/
+- DataPrep, https://pypi.org/project/dataprep/
+- Sweetviz, https://pypi.org/project/sweetviz/
+- YData Profiling, https://pypi.org/project/ydata-profiling/
 - AutoViz, https://pypi.org/project/autoviz/
-
-### Python Basic Stats Tests
-This script examines basic statistical test using the Titanic and Iris datasets.
-It covers how to choose when to use them based on data type, distribution, and population size.
-Basic tests include:
-- Chi-Square
-- t-Test
-- ANOVA
-- Kruskal-Wallis
-- Pearson Correlation
-- Linear Regression
-- Logistic Regression
 
 ### Quick Dataframe Summaries in Pandas
 This is a collection of methods and attributes in Pandas that allow you to gain a quick understanding of the shape, data, and general diversity of a dataframe using pandas.
