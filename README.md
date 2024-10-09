@@ -2,7 +2,6 @@
 This is a collection of python scripts exploring the basics of exploratory data analysis (EDA) with python along with ways to enhance efficiencies in python EDA, such as using Auto EDA libraries.
 
 ### Python Basic EDA
-This script examines the basics of EDA in Python using the very familiar Titanic dataset
 It covers the fundamental topics of:
 - Understanding the dataset structure
 - Basic statistical summaries
