@@ -1,5 +1,5 @@
 # Python EDA
-This is a collection of python scripts exploring the basics of exploratory data analysis (EDA) with python along with ways to enhance efficiencies in python EDA, such as using Auto EDA libraries.
+This is a collection of python scripts, exploring the basics of exploratory data analysis (EDA) with python along with ways to enhance efficiencies in python EDA, such as using Auto EDA libraries.
 
 ### Python Basic EDA
 It covers the fundamental topics of:
